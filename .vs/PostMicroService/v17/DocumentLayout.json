@@ -1,12 +1,125 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|c:\\users\\cgust\\desktop\\projects\\cgu-jobboard-angular\\cgu-post-microservice\\postmicroservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|solutionrelative:postmicroservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|c:\\users\\cgust\\desktop\\projects\\cgu-jobboard-angular\\cgu-post-microservice\\postmicroservice\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|solutionrelative:postmicroservice\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|c:\\users\\cgust\\desktop\\projects\\cgu-jobboard-angular\\cgu-post-microservice\\postmicroservice\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|solutionrelative:postmicroservice\\controllers\\jobpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|c:\\users\\cgust\\desktop\\projects\\cgu-jobboard-angular\\cgu-post-microservice\\postmicroservice\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|solutionrelative:postmicroservice\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|c:\\users\\cgust\\desktop\\projects\\cgu-jobboard-angular\\cgu-post-microservice\\postmicroservice\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EA521-D3CB-4387-877E-B6451897825D}|PostMicroService\\PostMicroService.csproj|solutionrelative:postmicroservice\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPostController.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Controllers\\JobPostController.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\Controllers\\JobPostController.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Controllers\\JobPostController.cs",
+              "RelativeToolTip": "PostMicroService\\Controllers\\JobPostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:52:57.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPostService.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Services\\JobPostService.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\Services\\JobPostService.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Services\\JobPostService.cs",
+              "RelativeToolTip": "PostMicroService\\Services\\JobPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:01:04.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Repositories\\JobPostRepository.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\Repositories\\JobPostRepository.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Repositories\\JobPostRepository.cs",
+              "RelativeToolTip": "PostMicroService\\Repositories\\JobPostRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:52:33.893Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240807170318_jobPost-PostService.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs",
+              "RelativeToolTip": "PostMicroService\\Migrations\\20240807170318_jobPost-PostService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:03:18.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\AppDbContext.cs",
+              "RelativeToolTip": "PostMicroService\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:00:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Globals.cs",
+              "RelativeDocumentMoniker": "PostMicroService\\Globals.cs",
+              "ToolTip": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-post-microservice\\PostMicroService\\Globals.cs",
+              "RelativeToolTip": "PostMicroService\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:40:59.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

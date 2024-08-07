@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostMicroService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27eac5b9557a209f46f586a277d37f8900c33bac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a0dedb9be9bb64e76019fd8d662674060807296")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostMicroService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostMicroService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
