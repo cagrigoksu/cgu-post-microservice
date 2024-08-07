@@ -18,9 +18,9 @@ namespace PostMicroService.Repositories
 
             var jobPosts = from post in _db.JobPosts where post.IsDeleted == false select post;
 
-            var pageCount = jobPosts.Count();
+            var postCount = jobPosts.Count();
             var maxPage = 0;
-            double _temp = (double)pageCount / Globals.MaxItemForJobList;
+            double _temp = (double)postCount / Globals.MaxItemForJobList;
 
             if (_temp > 0 && _temp < 1)
             {
